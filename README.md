@@ -23,7 +23,8 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=jonakbrera_dev&show_icons=true&theme=radical)
+![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=jonakbrera&show_icons=true&theme=radical)
+
 
 ---
 
