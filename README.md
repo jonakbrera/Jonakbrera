@@ -30,8 +30,9 @@
 
 ## 📫 Contacto
 
-- [LinkedIn][(https://www.linkedin.com/in/jonathan-cabrera-84a23220b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- Email: jonakbrera17@gmail.com.py
+- [LinkedIn](https://www.linkedin.com/in/jonathan-cabrera-84a23220b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- Correo electrónico: jonakbrera17@gmail.com  
+
 
 ---
 
