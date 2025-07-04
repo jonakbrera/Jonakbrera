@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jonathan Cabrera
 
-<!--
-**jonakbrera/Jonakbrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador autodidacta y estudiante de Ingeniería Informática**.  
+🚀 Apasionado por aprender, programar y automatizar procesos.  
+⚡ Explorando el mundo del desarrollo con Python, Git, GitHub y bases de datos.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- Python 🐍
+- Git & GitHub 🔧
+- SQL & Bases de datos 🗄️
+- Automatización con scripts ⚙️
+- Visual Studio Code 💻
+
+---
+
+## 📂 Proyectos destacados
+
+✨ Aquí estarán mis futuros proyectos... ¡Próximamente! 🚀
+
+---
+
+## 📊 Mis estadísticas de GitHub
+
+![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=jonakbrera_dev&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn][(https://www.linkedin.com/in/jonathan-cabrera-84a23220b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- Email: jonakbrera17@gmail.com.py
+
+---
+
+*"El aprendizaje constante es la clave para crecer como desarrollador."*
