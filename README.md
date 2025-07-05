@@ -1,39 +1,41 @@
-# 👋 ¡Hola! Soy Jonathan Cabrera
+<h1 align="center">¡Hola, soy Jonathan Cabrera! 👨‍💻</h1>
 
-💻 **Desarrollador autodidacta y estudiante de Ingeniería Informática**.  
-🚀 Apasionado por aprender, programar y automatizar procesos.  
-⚡ Explorando el mundo del desarrollo con Python, Git, GitHub y bases de datos.  
-
----
-
-## 🛠️ Tecnologías y herramientas
-- Python 🐍
-- Git & GitHub 🔧
-- SQL & Bases de datos 🗄️
-- Automatización con scripts ⚙️
-- Visual Studio Code 💻
+<p align="center">
+  💡 Estudiante de Ingeniería Informática | Explorando Python, Git y el mundo del código
+</p>
 
 ---
 
-## 📂 Proyectos destacados
+### Sobre mí
 
-✨ Aquí estarán mis futuros proyectos... ¡Próximamente! 🚀
-
----
-
-## 📊 Mis estadísticas de GitHub
-
-![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=jonakbrera&show_icons=true&theme=radical)
-
+- 🎯 Apasionado por aprender cosas nuevas y resolver problemas con tecnología
+- 🐍 Me enfoco en **Python**, automatización y bases de datos
+- 🌍 Me gustaría colaborar en proyectos que tengan impacto real
+- 💻 Siempre listo para seguir mejorando mis habilidades
 
 ---
 
-## 📫 Contacto
+### Tecnologías que estoy usando
 
-- [LinkedIn](https://www.linkedin.com/in/jonathan-cabrera-84a23220b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- Correo electrónico: jonakbrera17@gmail.com  
-
+- Python, Git & GitHub, SQL y Visual Studio Code
+- Automatización de tareas con scripts
+- Próximamente... desarrollo web y más ⚡
 
 ---
 
-*"El aprendizaje constante es la clave para crecer como desarrollador."*
+### Mis proyectos
+
+🚧 *Este espacio pronto se llenará de ideas y proyectos reales. ¡Estoy en camino!*
+
+---
+
+### Conectemos
+
+- 📩 [jonakbrera17@gmail.com](mailto:jonakbrera17@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-cabrera-84a23220b)
+
+---
+
+<p align="center">
+  "Hoy parece difícil, mañana será más fácil, y pronto será parte de mi día a día."
+</p>
